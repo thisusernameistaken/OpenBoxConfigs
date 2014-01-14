@@ -1,4 +1,4 @@
 OpenBoxConfigs
 ==============
 
-My configs for openbox
+My configs for openbox and other arch things
